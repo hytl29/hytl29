@@ -9,46 +9,53 @@
 <!-- 2. AMBIENT TYPING ANIMATION                              -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&duration=3500&pause=1000&color=FF6B7A&center=true&vCenter=true&width=650&lines=Building+software+that+feels+snappy+and+fun+to+use;Turning+ideas+into+clean,+reliable+code;Always+curious,+tinkering,+and+learning+new+things." alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=15&duration=3500&pause=1000&color=FF6B7A&center=true&vCenter=true&width=650&lines=Building+web+apps+that+just+work;Writing+clean,+fast,+and+snappy+code;Always+tinkering+and+picking+up+new+tools." alt="Typing Banner" />
 </p>
 
 <div align="center">
   <p>
-    Hey there! 👋 I'm <b>Hayatul Fattah</b>, a software engineer based in Indonesia 🇮🇩.<br/>
-    I enjoy building modern web applications, designing sensible backends, and sweating the small details that make software pleasant to use. I care a lot about clean structure, speed, and writing code that future-me won't regret.
+    Hey, I'm <b>Hayatul Fattah</b>.<br/>
+    I spend most of my time building stuff for the web, messing around with different frameworks, and figuring things out as I go. Big fan of clean code, fast UIs, and software that doesn't get in your way. When I'm not in my code editor, I'm probably brewing another cup of coffee or checking out what's new in tech.
   </p>
 </div>
 
+<!-- ======================================================== -->
+<!-- 3. AESTHETIC DARK CODING GIF                             -->
+<!-- ======================================================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Session" style="border-radius: 10px;" />
+</p>
+
 ---
 
-### ☕ A Quick Snapshot
+### A Quick Snapshot
 
 <table>
   <tr>
     <td align="center" width="25%">
       <sub>WHAT I DO</sub><br/>
-      <b>Web & Systems Dev</b>
+      <b>Web & Systems</b>
     </td>
     <td align="center" width="25%">
       <sub>CURRENT VIBE</sub><br/>
-      <b>Building & Exploring</b>
+      <b>Building & Tinkering</b>
     </td>
     <td align="center" width="25%">
-      <sub>CORE PHILOSOPHY</sub><br/>
-      <b>Simplicity & Speed</b>
+      <sub>PHILOSOPHY</sub><br/>
+      <b>Keep it fast and simple</b>
     </td>
     <td align="center" width="25%">
-      <sub>BASED IN</sub><br/>
-      <b>Indonesia 🇮🇩</b>
+      <sub>LOCATION</sub><br/>
+      <b>Indonesia (Open to remote)</b>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ What I Work With Daily
+### Stack & Tools
 
-#### 🔹 Languages
+#### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-1F080B?style=for-the-badge&logo=typescript&logoColor=FF6B7A" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-1F080B?style=for-the-badge&logo=javascript&logoColor=FF6B7A" alt="JavaScript" />
@@ -57,7 +64,7 @@
   <img src="https://img.shields.io/badge/SQL-1F080B?style=for-the-badge&logo=postgresql&logoColor=FF6B7A" alt="SQL" />
 </p>
 
-#### 🔹 Frameworks & Web
+#### Frameworks & Web
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-2A0B10?style=for-the-badge&logo=next.js&logoColor=FF8594" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-2A0B10?style=for-the-badge&logo=react&logoColor=FF8594" alt="React" />
@@ -65,7 +72,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-2A0B10?style=for-the-badge&logo=tailwind-css&logoColor=FF8594" alt="Tailwind CSS" />
 </p>
 
-#### 🔹 Databases, Tools & Workflow
+#### Databases, DevOps & Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-1F080B?style=for-the-badge&logo=postgresql&logoColor=FF6B7A" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-1F080B?style=for-the-badge&logo=redis&logoColor=FF6B7A" alt="Redis" />
@@ -76,47 +83,7 @@
 
 ---
 
-### 🚀 What I'm Up To Lately
-
-- 🔭 **Current Focus:** Crafting fullstack apps with Next.js, TypeScript, and Go.
-- 💡 **Curiosities:** Deep-diving into backend performance tuning, cache patterns, and lightweight APIs.
-- 🌱 **Learning:** Leveling up my cloud infrastructure know-how and container pipelines.
-- 💬 **Ask me about:** Frontend architecture, responsive UI, database schemas, or good coffee recommendations.
-
----
-
-### 📂 Featured Works
-
-<table>
-  <thead>
-    <tr>
-      <th align="left" width="30%">Project</th>
-      <th align="left" width="50%">What It Does</th>
-      <th align="left" width="20%">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/hytl29">Fullstack Web App</a></b></td>
-      <td>A clean, responsive web application built with a focus on seamless interactions and great DX.</td>
-      <td><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/hytl29">High-Performance API</a></b></td>
-      <td>A lightweight RESTful service with smart caching to handle concurrent requests smoothly.</td>
-      <td><code>Node.js</code> <code>Redis</code> <code>Docker</code></td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/hytl29">Design System & UI Kit</a></b></td>
-      <td>Reusable component library built with accessibility, modularity, and theme flexibility in mind.</td>
-      <td><code>React</code> <code>Tailwind</code> <code>Storybook</code></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <!-- Smoked Glass Stats Card -->
@@ -132,9 +99,9 @@
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
-Got a question, an interesting project, or just want to say hi? My inbox is always open!
+Got a project idea, want to collaborate, or just feel like saying hi? Reach out anytime.
 
 <p align="center">
   <a href="https://linkedin.com/in/">
